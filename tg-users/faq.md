@@ -18,7 +18,7 @@ If you come here to appeal to a ban that we don't have control, we might suggest
 | :--- | :--- | :--- | :--- | :--- |
 | SpamWatch | [Simon Schürrle](https://t.me/SitiSchu) | No | [SpamWatch Support](https://t.me/SpamWatchSupport) | No |
 | SpamBlockers / Graveyard Dwellers | [Andrew Lane](https://t.me/TwitFace) | No | [SpamBlockers](https://t.me/SpamBlockers) / [GD Support](https://t.me/GraveyardDwellers) | No |
-| Dauha Engine AI \(DEAI\) | [Felenov](https://t.me/Felenov) | Depends on your behavior | [DEAI Support](https://t.me/joinchat/EDyCUlc3Dgc8BJH6z0GWWg) | No |
+| Dauha Engine AI \(DEAI\) | [Felenov](https://t.me/Felenov) | No, you'll get blocked. | [DEAI Support](https://t.me/joinchat/EDyCUlc3Dgc8BJH6z0GWWg) | No |
 | Sibyl System | Sawada Tsunayoshi / Dragsama | No | [Public Safety Bureau](https://t.me/PublicSafetyBureau) | Yes, only [Danky](https://t.me/Dank_as_Fuck). |
 | Intellivoid Spam Protection | Don't ask. | Don't ask. | Spam Protection Support | Yes, currently Danky and Andrei Jiroh |
 
