@@ -8,7 +8,7 @@ Welcome to the Pins team's Federation Support website! This is where different t
 
 ## How to browse here?
 
-Use the navigation bar on the left side of the website to navigate around.
+Use the navigation bar on the left side of the website to navigate around. If you're on mobile, tap the hamburger menu to fire up the navbar.
 
 ## Is this open-source?
 
